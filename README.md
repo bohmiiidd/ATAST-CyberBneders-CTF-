@@ -15,9 +15,10 @@ step2= reversed algorithm in "reversed_chakchouka.py"
 
 
 2) Cryptography: TASK:"435.py" >>
--simple AES encryption-  
+-simple AES encryption-
+
 step1 = find and decode the Initialization Vector and key.
-step2 = set CBC mode , simple decryption
-decryption in 435_dec.py
+step2 = set CBC mode , simple decryption, decryption in "435_dec.py"
+
 
 
